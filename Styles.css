@@ -1,0 +1,165 @@
+body{
+  font-family:Roboto;
+}
+.nav-link{
+  color: #C7C7C7;
+font-size: 24px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+.language{
+  color: #DCDCDC;
+font-size: 24px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+.hero-С-R{
+  color: #FFF;
+font-family: "PT Serif";
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero-title{
+  color: #FFF;
+font-family: "Playfair Display";
+font-size: 144px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero-subtitle{
+  color: #FFF;
+font-family: "Playfair Display";
+font-size: 72px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero-text{
+  color: #FFF;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero-btn{
+  color: #FFF;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.features-title{
+  color: #FFF;
+text-align: center;
+font-family: "Playfair Display";
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.Reviews-title{
+  color: #FFF;
+text-align: center;
+font-family: "Playfair Display";
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.Reviews-subtitle{
+  color: #FFF;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.date{
+  color: #D8D8D8;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.name{
+  color: #FFF;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.Reviews-text{
+  color: #FFF;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.order-title{
+  color: #FFF;
+font-family: "Playfair Display";
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.order-input{
+  color: #959595;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.order-btn{
+  color: #FFF;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.footer-text{
+  color: #FFF;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.footer-email{
+  color: #FFF;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-decoration-skip-ink: none;
+text-decoration-thickness: auto;
+text-underline-offset: auto;
+text-underline-position: from-font;
+}
+.footer-adress{
+  color: #FFF;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.footer-country{
+  color: #FFF;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.footer-C-R{
+  color: #FFF;
+font-family: "PT Serif";
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
