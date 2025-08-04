@@ -16,14 +16,14 @@
   </head>
   <body>
     <header class="header">
-      <div class="container">
-        <nav class="nav">
-          <ul class="nav-list">
-            <img
+      <div class="container header-wrap">
+         <img
               class="header-logo"
               src="./img/logo.png"
               alt="logo of the Nike"
             />
+        <nav class="nav">
+          <ul class="nav-list">    
             <li class="nav-item"><a class="nav-link" href="">Main page</a></li>
             <li class="nav-item"><a class="nav-link" href="">Benefits</a></li>  
             <li class="nav-item"><a class="nav-link" href="">Advantages</a></li>
@@ -53,7 +53,8 @@
       <section class="features">
         <div class="container">
           <ul class="features-list">
-            <li class="features-item">
+            <div class="features-container">
+            <li class="features-item features-one">
               <h3 class="features-title">Premium<br>Quality</h3>
               <img
                 class="features-img"
@@ -72,7 +73,7 @@
                <h3 class="features-title">Indelible<br>paint</h3>
           
             </li>
-            <li class="features-item">
+            <li class="features-item features-three">
               <h3 class="features-title">Fast<br>shipping</h3>
               <img
                 class="features-img"
@@ -80,6 +81,7 @@
                 alt="purple lorry"
               />
             </li>
+            </div>
           </ul>
         </div>
       </section>
@@ -93,15 +95,16 @@
                 off in a year.
               </h3>
               <p class="date">25.11</p>
-            
+              <div class="reviews-container-2">
                <img
                 class="reviews-img"
                 src="./img/man-in-glasses.png"
                 alt="man-in-glasses"
               />
-               <div class="reviews-container">
+                <div class="reviews-container">
               <p class="name">John Teylor</p>
               <p class="reviews-text">With us from 2018</p>
+              </div>
               </div>
             </li>
             <li class="reviews-item two">
@@ -110,7 +113,7 @@
                 clothes.
               </h3>
               <p class="date">05.01</p>
-             
+             <div class="reviews-container-2">
               <img
                 class="reviews-img"
                 src="./img/woman.png"
@@ -120,6 +123,7 @@
               <p class="name">Elizabeth Garsia</p>
               <p class="reviews-text">With us from 2020</p>
               </div>
+              </div>
             </li>
             <li class="reviews-item three">
               <h3 class="reviews-subtitle">
@@ -127,10 +131,12 @@
                 the paint is super.
               </h3>
               <p class="date">18.06</p>
+              <div class="reviews-container-2">
               <img class="reviews-img" src="./img/man.png" alt="man" />
                <div class="reviews-container">
               <p class="name">Tom Maquare</p>
               <p class="reviews-text">With us from 2019</p>
+              </div>
               </div>
             </li>
           </ul>
