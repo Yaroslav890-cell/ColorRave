@@ -198,12 +198,26 @@ font-size: 24px;
 font-weight: 400;
 line-height: normal;
 }
-.date{
+.date-one{
   color: #D8D8D8;
 font-size: 14px;
 font-weight: 400;
 line-height: normal;
 margin-bottom: 47px;
+}
+.date-two{
+  color: #D8D8D8;
+font-size: 14px;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 23px;
+}
+.date-three{
+  color: #D8D8D8;
+font-size: 14px;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 10px;
 }
 .name{
   color: #FFF;
