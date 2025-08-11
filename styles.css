@@ -10,6 +10,8 @@ body{
   background: #012D63;
   padding-left: 168px;
   padding-right: 165px;
+  width: 1440px;
+  margin: 0 auto;
 }
 .header-wrap{
   display: flex;
@@ -276,6 +278,8 @@ margin-bottom: 16px;
 }
 .footer{
   background-color:#021635;
+  width: 1440px;
+  margin: 0 auto;
 }
 .footer-text{
   color: #FFF;
